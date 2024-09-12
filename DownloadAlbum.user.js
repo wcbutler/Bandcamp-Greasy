@@ -12,7 +12,7 @@
     'use strict';
     
     // Set preferred download format here
-    var format = "MP3 320";
+    var format = "FLAC";
     // Whether the download tab should automatically be closed after the download has been started
     var closeAfterDownload = true;
     
