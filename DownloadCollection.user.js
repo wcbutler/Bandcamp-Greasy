@@ -4,7 +4,7 @@
 // @version      1.4
 // @description  Opens the download page for each item in your collection.
 // @author       Ryan Bluth, Xerus2000, bb010g
-// @match        https://bandcamp.com/YOUR_USERNAME
+// @match        https://bandcamp.com/fastcore
 // @grant        GM_openInTab
 // ==/UserScript==
 
